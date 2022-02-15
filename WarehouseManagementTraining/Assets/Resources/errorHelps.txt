@@ -1,0 +1,7 @@
+ForkliftHitsObject
+ItemEnteredPickingCartWrong
+ItemFallOnGround
+ItemLeftPickingCart
+PalletLeftPalletPlace
+ScannedWithoutBarcode
+ScanUndefinedBarcode
